@@ -10,3 +10,4 @@
 - BBQ stand (Jump)
 - Going inside the house but not struggles there . showing the player thorugh windows
 - different altitude house (double jump)
+- Ice obstacles(fox will frezze)
